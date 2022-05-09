@@ -17,7 +17,7 @@ git clone https://github.com/getwinharris/bapx-swap-sdk.git
 Move into the pancakeswap-sdk working directory
 
 ```sh
-cd pancakeswap-sdk/
+cd bapx-swap-sdk/
 ```
 
 Install dependencies
